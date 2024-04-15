@@ -30,6 +30,7 @@ For example, if I rotate a valve X, it will affect elements:
 2, 3
 
 And make them into this:
+
 2, 2
 
   X
