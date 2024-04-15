@@ -16,21 +16,30 @@ There's a puzzle I've seen in a game that works by this logic:
    The whole puzzle looks like this:
    
 A: 1, 2, 3, 4
+
      Z  X  C 
+     
 B: 1, 2, 3, 4
 
 For example, if I rotate a valve X, it will affect elements:
+
 2, 3
+
   X
+  
 2, 3
 
 And make them into this:
 2, 2
+
   X
+  
 3, 3
 
 The start of the puzzle is always random, the elements 1, 2, 3, 4 are mixed up. The goal is to set them in this order:
 
 A: 1, 2, 3, 4
+
      Z  X  C 
+     
 B: 1, 2, 3, 4
