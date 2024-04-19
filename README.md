@@ -15,32 +15,10 @@ There's a puzzle I've seen in a game that works by this logic:
 
    The whole puzzle looks like this:
    
-A: 1, 2, 3, 4
-
-     Z  X  C 
-     
-B: 1, 2, 3, 4
+![image](https://github.com/solarcea/8-element-puzzle/assets/165539627/70c0681c-2daf-49e3-a26c-d6d7e9ef2df5)
 
 For example, if I rotate a valve X, it will affect elements:
 
-2, 3
+![image](https://github.com/solarcea/8-element-puzzle/assets/165539627/3664920a-e1c7-4313-aefe-e935be774d54)
 
-  X
-  
-2, 3
-
-And make them into this:
-
-2, 2
-
-  X
-  
-3, 3
-
-The start of the puzzle is always random, the elements 1, 2, 3, 4 are mixed up. The goal is to set them in this order:
-
-A: 1, 2, 3, 4
-
-     Z  X  C 
-     
-B: 1, 2, 3, 4
+The start of the puzzle is always random, the elements 1, 2, 3, 4 are mixed up. The goal is to set them in the initial order.
